@@ -13,3 +13,11 @@ In no event shall the authors or copyright holders be liable for any claim, dama
 
 ### You are advised to:
 Consult with a qualified legal professional to ensure any license you use is appropriate for your specific situation and is legally enforceable in your jurisdiction.
+
+## End of Legal Disclaimer
+## Licenses listed in this repository
+<ul>
+  <li>
+    <a href="LICENSES/Public Discourse License (v1.0)">Public Discourse License (v1.0)</a>
+  </li>
+</ul>
